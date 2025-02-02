@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "ES2017",
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "moduleDetection": "force",
+      "rootDir": "./src",
+      "outDir": "./dist",
+      "strict": false,
+      "noUncheckedIndexedAccess": true,
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "resolveJsonModule": true,
+      "lib": ["ES2022"]
+    },
+    "exclude": ["*.ts"]
+}  
